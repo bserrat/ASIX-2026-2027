@@ -43,24 +43,24 @@ Completa la taula següent.
 
 Quines diferències observes entre un **treballador**, un **departament** i una **funció o responsabilitat**?
 
----
+**Treballador:** És la persona que treballa en l'empresa.
 
----
+**Departament:** És l’àrea de l’empresa on treballa una persona.
 
----
+**Funció o Responsabilitat:** Indica què fa la persona dins del seu departament
 
 Hi ha persones que, pel seu càrrec o funció, necessiten accessos diferents dels altres membres del seu departament?
 
-☐ Sí  
+X Sí  
 ☐ No
 
 Posa'n algun exemple:
 
----
+**Treballador:** Aina Ciurans
 
----
+**Departament:** Direcció
 
----
+**Funció o Responsabilitat:** Directora
 
 # 2. Recursos de l'empresa
 
