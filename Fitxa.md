@@ -262,15 +262,11 @@ Campanya Estiu
 Creus que hauríem de canviar-les de departament?
 
 ☐ Sí  
-☐ No
+X No
 
 Si no, com podríem donar-los accés als recursos del projecte?
 
----
-
----
-
----
+Podríem crear un conjunt anomenat Campanya Estiu i afegir-hi les persones que participen en el projecte. Després, donaríem permisos a aquest conjunt sobre la carpeta del projecte.
 
 # 10. Conclusions
 
