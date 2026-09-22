@@ -274,29 +274,19 @@ Completa les frases amb les teves paraules.
 
 ### Usuari
 
-Un usuari representa:
-
----
+Un usuari representa: una persona que té accés als recursos de l’empresa.
 
 ### Recurs
 
-Un recurs és:
-
----
+Un recurs és: un fitxer, carpeta o informació que es pot utilitzar.
 
 ### Permís
 
-Un permís determina:
-
----
+Un permís determina: què pot fer un usuari o grup amb un recurs.
 
 ### Grup
 
-Un grup serveix per:
-
----
-
----
+Un grup serveix per: agrupar usuaris amb necessitats d’accés semblants i gestionar els permisos més fàcilment.
 
 # 11. Regla de mínim privilegi
 
