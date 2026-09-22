@@ -68,14 +68,14 @@ Analitza l'estructura d'informació de MusicCloud.
 
 Classifica alguns dels recursos següents segons la seva finalitat.
 
-| Recurs                                                   | Qui creus que l'hauria d'utilitzar? | Per a què? |
-| -------------------------------------------------------- | ----------------------------------- | ---------- |
-| `/empresa/comu/intercanvi`                               |                                     |            |
-| `/empresa/comu/comunicats`                               |                                     |            |
-| `/empresa/departaments/administracio/compartida`         |                                     |            |
-| `/empresa/departaments/administracio/gestio_departament` |                                     |            |
-| `/empresa/projectes/campanya_estiu`                      |                                     |            |
-| `/empresa/administracio_sistema/backups`                 |                                     |            |
+| Recurs                                                   | Qui creus que l'hauria d'utilitzar?        | Per a què?                                                               |
+| -------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------ |
+| `/empresa/comu/intercanvi`                               | Tots treballadors                          | Per compartir fitxers entre els treballadors.                            |
+| `/empresa/comu/comunicats`                               | Tots treballadors                          | Per consultar comunicats i informació general de l’empresa.              |
+| `/empresa/departaments/administracio/compartida`         | Treballadors d’Administració               | Per compartir documents i fitxers del departament.                       |
+| `/empresa/departaments/administracio/gestio_departament` | Cap d’Administració                        | Per gestionar documents i informació interna del departament.            |
+| `/empresa/projectes/campanya_estiu`                      | Treballadors que participen en el projecte | Per guardar i compartir els fitxers relacionats amb la campanya d’estiu. |
+| `/empresa/administracio_sistema/backups`                 | Personal d’Informàtica / administradors    | Per guardar i gestionar les còpies de seguretat dels sistemes.           |
 
 ---
 
