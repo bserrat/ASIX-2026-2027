@@ -224,13 +224,13 @@ A partir de l'organització de l'empresa, proposa els primers conjunts de person
 
 **No cal trobar encara la solució definitiva.**
 
-| Nom proposat | Qui hi pertanyeria? | Per què existeix aquest conjunt? |
-| ------------ | ------------------- | -------------------------------- |
-|              |                     |                                  |
-|              |                     |                                  |
-|              |                     |                                  |
-|              |                     |                                  |
-|              |                     |                                  |
+| Nom proposat      | Qui hi pertanyeria?                                                                             | Per què existeix aquest conjunt?                               |
+| ----------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Direcció          | Aina Ciurans, Rut Tornil                                                                        | Per gestionar els recursos i documents de Direcció.            |
+| Administració     | Dídac Gassó, Laia Macias                                                                        | Per accedir als recursos i documents d'Administració.          |
+| Suport tècnic     | Estel Birosta, Aina Zuriguel, Lluïsa Richart                                                    | Per gestionar els recursos relacionats amb el suport tècnic.   |
+| Producció musical | Roser Alberch, Guillem Adella, Meritxell Reglat, Alícia Monclús, Carles Molins, Eulàlia Galcera | Per accedir als recursos i projectes de Producció musical.     |
+| Informàtica       | Talia Costas, Alex Soriano                                                                      | Per gestionar els sistemes informàtics i els recursos tècnics. |
 
 ---
 
