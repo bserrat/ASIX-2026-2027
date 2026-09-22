@@ -2,7 +2,6 @@
 
 **Nom i cognoms:** BIEL SERRAT
 **Data:** 17/09/2026
-**Equip / parella:** ********\*\*\*\*********\_********\*\*\*\*********
 
 ## Objectiu
 
@@ -22,16 +21,23 @@ Consulta la informació disponible sobre els departaments, treballadors i perfil
 
 Completa la taula següent.
 
-| Persona | Departament | Funció / responsabilitat | Necessita privilegis especials? Per què? |
-| ------- | ----------- | ------------------------ | ---------------------------------------- |
-|         |             |                          |                                          |
-|         |             |                          |                                          |
-|         |             |                          |                                          |
-|         |             |                          |                                          |
-|         |             |                          |                                          |
-|         |             |                          |                                          |
-|         |             |                          |                                          |
-|         |             |                          |                                          |
+| Persona          | Departament       | Funció / responsabilitat     | Necessita privilegis especials? Per què?                           |
+| ---------------- | ----------------- | ---------------------------- | ------------------------------------------------------------------ |
+| Aina Ciurans     | Direcció          | Directora                    | Sí, necessita accés a informació general i documents de l’empresa. |
+| Rut Tornil       | Direcció          | Directora                    | Sí, necessita accés a informació general i documents de l’empresa. |
+| Dídac Gasso      | Administració     | Administratiu                | Sí, necessita accés a documents i dades administratives.           |
+| Laia Macias      | Administració     | Cap d'administració          | Sí, necessita accés a documents i dades administratives.           |
+| Estel Birosta    | Suport Tècnic     | Tècnica de suport            | Sí, necessita permisos per gestionar incidències i equips.         |
+| Aina Zuriguel    | Suport Tècnic     | Tècnica de suport            | Sí, necessita permisos per gestionar incidències i equips.         |
+| Lluïsa Richart   | Suport Tècnic     | Cap de suport                | Sí, necessita permisos d’administració dels sistemes de suport.    |
+| Roser Alberch    | Producció musical | Tècnica de producció musical | No, només necessita accés als recursos de producció.               |
+| Guillem Adella   | Producció musical | Tècnic de producció musical  | No, només necessita accés als recursos de producció.               |
+| Meritxell Reglat | Producció musical | Cap de producció musical     | Sí, necessita gestionar els recursos i documents del departament.  |
+| Alícia Monclús   | Producció musical | Tècnica de producció musical | No, només necessita accés als recursos de producció.               |
+| Carles Molins    | Producció musical | Tècnic de producció musical  | No, només necessita accés als recursos de producció.               |
+| Eulàlia Galcera  | Producció musical | Tècnica de producció musical | No, només necessita accés als recursos de producció.               |
+| Talia Costas     | Informàtica       | Cap d’informàtica            | Sí, necessita permisos d’administració dels sistemes informàtics.  |
+| Alex Soriano     | Informàtica       | Tècnic informàtic            | Sí, necessita permisos per gestionar equips i sistemes.            |
 
 ### 1.1. Reflexió
 
