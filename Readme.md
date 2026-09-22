@@ -1,3 +1,3 @@
-# ASO 2026-2027#
+# ASO 2026-2027
 
 # Biel Serrat
