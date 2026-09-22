@@ -241,21 +241,15 @@ Laia treballa al departament d'Administració, però també és la responsable d
 És suficient que pertanyi només al conjunt `Administració`?
 
 ☐ Sí  
-☐ No
+X No
 
 Per què?
 
----
-
----
+Perquè Laia, a més de ser treballadora d'Administració, és la responsable del departament i necessita més permisos que la resta de treballadors.
 
 Quina possible solució proposes?
 
----
-
----
-
----
+Crear un segon conjunt, per exemple Caps d'Administració, i afegir-hi Laia. Així podria tenir els permisos normals d'Administració i els permisos addicionals de responsable.
 
 # 9. Un altre cas
 
