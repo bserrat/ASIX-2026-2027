@@ -159,13 +159,11 @@ Dídac deixa Administració i passa a Producció musical.
 
 Quins accessos hauria de perdre?
 
----
+Hauria de perdre els accessos exclusius d'Administració, com la carpeta compartida i la gestió del departament.
 
 Quins accessos hauria d'obtenir?
 
----
-
----
+Hauria d'obtenir els accessos corresponents a Producció musical i als projectes en què participi.
 
 ### Cas B
 
@@ -173,11 +171,7 @@ S'incorpora una nova treballadora al departament d'Administració.
 
 Quins accessos caldria configurar?
 
----
-
----
-
----
+Hauria d'obtenir els accessos corresponents a Producció musical i als projectes en què participi.
 
 ### Cas C
 
@@ -185,11 +179,7 @@ Pere Espinalt deixa de col·laborar amb MusicCloud.
 
 Què hauríem de fer amb els seus accessos?
 
----
-
----
-
----
+Hauríem de retirar tots els seus accessos als recursos de MusicCloud, ja que ja no col·labora amb l'empresa. També s'hauria de desactivar el seu compte si en té un.
 
 # 6. Busquem una solució millor
 
