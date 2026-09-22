@@ -92,14 +92,14 @@ Utilitza:
 
 No busquis encara una solució tècnica. Pensa només en les necessitats de l'empresa.
 
-| Situació                                                             | Accés proposat | Justificació |
-| -------------------------------------------------------------------- | -------------- | ------------ |
-| Dídac accedeix a la carpeta compartida d'Administració               |                |              |
-| Laia accedeix a la gestió del departament d'Administració            |                |              |
-| Pere, treballador extern, accedeix als comunicats interns            |                |              |
-| Talia accedeix als backups del sistema                               |                |              |
-| Un membre de Producció musical accedeix a la carpeta d'Administració |                |              |
-| Un participant de `campanya_estiu` accedeix als fitxers del projecte |                |              |
+| Situació                                                             | Accés proposat | Justificació                                                                   |
+| -------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------ |
+| Dídac accedeix a la carpeta compartida d'Administració               | L/E            | Necessita consultar i modificar documents del departament.                     |
+| Laia accedeix a la gestió del departament d'Administració            | ADM            | És la cap del departament i necessita gestionar els recursos i documents.      |
+| Pere, treballador extern, accedeix als comunicats interns            | NA             | Els comunicats interns són només per als treballadors de l'empresa.            |
+| Talia accedeix als backups del sistema                               | ADM            | És la responsable d'Informàtica i necessita gestionar les còpies de seguretat. |
+| Un membre de Producció musical accedeix a la carpeta d'Administració | NA             | No necessita accedir a informació interna d'un altre departament.              |
+| Un participant de `campanya_estiu` accedeix als fitxers del projecte | L/E            | Necessita consultar i modificar els fitxers del projecte.                      |
 
 ---
 
