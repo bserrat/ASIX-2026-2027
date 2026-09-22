@@ -296,17 +296,11 @@ Analitza aquesta afirmació:
 
 Explica amb les teves paraules què significa.
 
----
-
----
+Significa que cada treballador només ha de tenir els permisos que necessita per fer la seva feina, i no tenir accessos que no necessita.
 
 Posa un exemple relacionat amb MusicCloud.
 
----
-
----
-
----
+Dídac, que treballa a Administració, pot tenir accés de lectura i escriptura a la carpeta d’Administració, però no hauria de tenir accés als backups del sistema, perquè no els necessita per fer la seva feina.
 
 # 12. Pregunta final
 
