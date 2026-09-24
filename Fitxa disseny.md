@@ -107,37 +107,26 @@ Indica:
 
 **En quina OU ubicaries el seu compte?**
 
----
+A la OU Administració, perquè és el seu departament.
 
 **A quins grups podria pertànyer?**
 
----
-
----
+Administració
+Campanya Estiu
 
 ### Per què no és contradictori que estigui en una OU però pertanyi a diversos grups?
 
----
-
----
-
----
+Perquè la OU serveix per organitzar el compte dins del directori, mentre que els grups serveixen per assignar permisos i accessos.
 
 # 5. Servei de directori
 
 Explica breument què entens per **servei de directori**.
 
----
-
----
+Un servei de directori és un sistema que permet gestionar de manera centralitzada usuaris, grups, equips, servidors i altres recursos d’una empresa.
 
 Quin problema resol a MusicCloud?
 
----
-
----
-
----
+Permet organitzar i gestionar els usuaris i els seus permisos des d’un únic lloc.
 
 # 6. LDAP
 
