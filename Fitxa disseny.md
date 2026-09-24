@@ -76,29 +76,23 @@ Indica quina opció utilitzaries principalment en cada cas.
 
 | Necessitat                                                | OU  | Grup |
 | --------------------------------------------------------- | :-: | :--: |
-| Organitzar els treballadors d'Administració               |  ☐  |  ☐   |
-| Donar accés a la carpeta d'Administració                  |  ☐  |  ☐   |
-| Organitzar els ordinadors clients                         |  ☐  |  ☐   |
-| Identificar les persones que participen en Campanya Estiu |  ☐  |  ☐   |
-| Organitzar els servidors                                  |  ☐  |  ☐   |
-| Donar privilegis als administradors del sistema           |  ☐  |  ☐   |
-| Organitzar els comptes utilitzats per aplicacions         |  ☐  |  ☐   |
+| Organitzar els treballadors d'Administració               |  X  |  ☐   |
+| Donar accés a la carpeta d'Administració                  |  ☐  |  X   |
+| Organitzar els ordinadors clients                         |  X  |  ☐   |
+| Identificar les persones que participen en Campanya Estiu |  ☐  |  X   |
+| Organitzar els servidors                                  |  X  |  ☐   |
+| Donar privilegis als administradors del sistema           |  ☐  |  X   |
+| Organitzar els comptes utilitzats per aplicacions         |  X  |  ☐   |
 
 ### Explica amb les teves paraules la diferència principal entre una OU i un grup.
 
 **OU:**
 
----
-
----
+Serveix principalment per organitzar els objectes del directori, com usuaris, ordinadors o servidors.
 
 **Grup:**
 
----
-
----
-
----
+Serveix per agrupar persones o comptes i poder assignar-los permisos o privilegis conjuntament.
 
 # 4. Un mateix usuari: ubicació i pertinença
 
