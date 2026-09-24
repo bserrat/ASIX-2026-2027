@@ -149,8 +149,6 @@ Indica si les afirmacions són certes o falses.
 | OpenLDAP és una implementació d'un servei de directori    |  X  |  ☐  |
 | Active Directory utilitza LDAP, entre altres tecnologies  |  X  |  ☐  |
 
----
-
 # 7. DIT de MusicCloud
 
 Dibuixa la proposta final de **Directory Information Tree (DIT)** de MusicCloud.
@@ -164,14 +162,62 @@ Ha de mostrar, com a mínim:
 - comptes d'aplicacions o serveis;
 - les subdivisions que consideris necessàries.
 
-```text
 MusicCloud
 │
+├── Usuaris
+│ ├── Direcció
+│ │ ├── Aina Ciurans
+│ │ └── Rut Tornil
+│ │
+│ ├── Administració
+│ │ ├── Dídac Gassó
+│ │ └── Laia Macias
+│ │
+│ ├── Suport tècnic
+│ │ ├── Estel Birosta
+│ │ ├── Aina Zuriguel
+│ │ └── Lluïsa Richart
+│ │
+│ ├── Producció musical
+│ │ ├── Roser Alberch
+│ │ ├── Guillem Adella
+│ │ ├── Meritxell Reglat
+│ │ ├── Alícia Monclús
+│ │ ├── Carles Molins
+│ │ └── Eulàlia Galcera
+│ │
+│ └── Informàtica
+│ ├── Talia Costas
+│ └── Alex Soriano
 │
+├── Grups
+│ ├── Direcció
+│ │ └── Caps_Direcció
+│ ├── Administració
+│ │ └── Caps_Administració
+│ ├── Suport tècnic
+│ │ └── Caps_Suport_Tècnic
+│ ├── Producció musical
+│ │ └── Caps_Producció_Musical
+│ └── Informàtica
+│ └── Caps_Informàtica
 │
+├── Equips
+│ ├── Impressores
+│ ├── PC
+│ ├── Portàtils
+│ ├── Mòbils
+│ └── Servidors
 │
+├── Xarxa
+│ ├── Routers
+│ ├── Switchos
+│ ├── Firewalls
+│ ├── NAS
+│ └── SAI
 │
-```
+└── Software
+└── Llicències
 
 ---
 
