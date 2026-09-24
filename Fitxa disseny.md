@@ -245,23 +245,15 @@ Respon breument.
 
 ### a) Per què no seria una bona idea guardar tots els usuaris, grups, equips i servidors al mateix nivell sense organitzar-los?
 
----
-
----
+Perquè seria més difícil trobar, gestionar i administrar els objectes. A més, amb molts treballadors seria fàcil cometre errors.
 
 ### b) Per què no hauríem d'utilitzar les OU per substituir els grups de permisos?
 
----
-
----
+Perquè les OU serveixen principalment per organitzar els objectes, mentre que els grups serveixen per assignar permisos i accessos.
 
 ### c) Si MusicCloud passa de 14 a 500 treballadors, quina característica del disseny que has fet avui facilitarà més l'administració?
 
----
-
----
-
----
+L'ús de grups facilitarà molt l'administració, perquè podem assignar permisos a un grup en lloc de fer-ho persona per persona.
 
 # Documentació final del sistema
 
@@ -269,18 +261,38 @@ A partir de les decisions preses durant la sessió, deixa definida la proposta q
 
 ## Estructura d'unitats organitzatives
 
-```text
 MusicCloud
 │
+├── Usuaris
+│ ├── Direcció
+│ ├── Administració
+│ ├── Suport tècnic
+│ ├── Producció musical
+│ └── Informàtica
 │
+├── Grups
 │
+├── Equips
+│ ├── Impressores
+│ ├── PC
+│ ├── Portàtils
+│ ├── Mòbils
+│ └── Servidors
 │
-```
+├── Xarxa
+│ ├── Routers
+│ ├── Switchos
+│ ├── Firewalls
+│ ├── NAS
+│ └── SAI
+│
+└── Software
+└── Llicències
 
 ## Criteri utilitzat per organitzar els objectes
 
----
-
----
+Hem organitzat els objectes segons el seu tipus i funció: usuaris, grups, equips, elements de xarxa i software.
 
 ## Criteri utilitzat per diferenciar OU i grups
+
+Les OU serveixen per organitzar els objectes del directori, mentre que els grups serveixen per agrupar usuaris i assignar-los permisos.
