@@ -31,25 +31,44 @@ Sí, es podrien afegir impressores i recursos compartits, perquè també poden n
 
 Proposa les **unitats organitzatives (OU)** principals que utilitzaries a MusicCloud.
 
-| OU  | Què contindrà? | Per què la crees? |
-| --- | -------------- | ----------------- |
-|     |                |                   |
-|     |                |                   |
-|     |                |                   |
-|     |                |                   |
-|     |                |                   |
+| OU                | Què contindrà?                                                                                  | Per què la crees?                               |
+| ----------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| Direcció          | Aina Ciurans, Rut Tornil                                                                        | Per organitzar els usuaris de Direcció.         |
+| Administració     | Dídac Gassó, Laia Macias                                                                        | Per gestionar els usuaris d'Administració.      |
+| Suport tècnic     | Estel Birosta, Aina Zuriguel, Lluïsa Richart                                                    | Per organitzar els usuaris de Suport tècnic.    |
+| Producció musical | Roser Alberch, Guillem Adella, Meritxell Reglat, Alícia Monclús, Carles Molins, Eulàlia Galcera | Per gestionar els usuaris de Producció musical. |
+| Informàtica       | Talia Costas, Alex Soriano                                                                      | Per organitzar els usuaris d'Informàtica.       |
 
 ## 2.1. Organització dels usuaris
 
 Dibuixa l'estructura que utilitzaries per organitzar els usuaris de MusicCloud.
 
-```text
 MusicCloud
 │
-└──
-```
-
----
+├── Direcció
+│ ├── Aina Ciurans
+│ └── Rut Tornil
+│
+├── Administració
+│ ├── Dídac Gassó
+│ └── Laia Macias
+│
+├── Suport tècnic
+│ ├── Estel Birosta
+│ ├── Aina Zuriguel
+│ └── Lluïsa Richart
+│
+├── Producció musical
+│ ├── Roser Alberch
+│ ├── Guillem Adella
+│ ├── Meritxell Reglat
+│ ├── Alícia Monclús
+│ ├── Carles Molins
+│ └── Eulàlia Galcera
+│
+└── Informàtica
+├── Talia Costas
+└── Alex Soriano
 
 # 3. OU o grup?
 
