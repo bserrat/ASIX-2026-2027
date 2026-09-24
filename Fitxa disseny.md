@@ -134,20 +134,20 @@ Completa les frases següents.
 
 **LDAP és:**
 
----
+Un protocol que permet accedir, consultar i gestionar informació d’un servei de directori.
 
 **LDAP no és:**
 
----
+Un servei de directori concret ni un sinònim d’Active Directory.
 
 Indica si les afirmacions són certes o falses.
 
 | Afirmació                                                 |  C  |  F  |
 | --------------------------------------------------------- | :-: | :-: |
-| LDAP és sinònim d'Active Directory                        |  ☐  |  ☐  |
-| LDAP permet accedir i consultar informació d'un directori |  ☐  |  ☐  |
-| OpenLDAP és una implementació d'un servei de directori    |  ☐  |  ☐  |
-| Active Directory utilitza LDAP, entre altres tecnologies  |  ☐  |  ☐  |
+| LDAP és sinònim d'Active Directory                        |  ☐  |  X  |
+| LDAP permet accedir i consultar informació d'un directori |  X  |  ☐  |
+| OpenLDAP és una implementació d'un servei de directori    |  X  |  ☐  |
+| Active Directory utilitza LDAP, entre altres tecnologies  |  X  |  ☐  |
 
 ---
 
