@@ -219,33 +219,25 @@ MusicCloud
 └── Software
 └── Llicències
 
----
-
 # 8. Justificació del disseny
 
 Escull **dues decisions** del teu DIT que consideris importants i justifica-les.
 
 ### Decisió 1
 
----
+Separar els usuaris per departaments dins de l’OU Usuaris.
 
 **Justificació:**
 
----
-
----
+Permet tenir els usuaris ben organitzats segons el departament al qual pertanyen i facilita la seva gestió.
 
 ### Decisió 2
 
----
+Separar els grups per departaments i crear un grup específic per als caps de cada departament.
 
 **Justificació:**
 
----
-
----
-
----
+Permet donar permisos diferents als treballadors i als responsables de cada departament de manera més fàcil.
 
 # 9. Comprovació final
 
