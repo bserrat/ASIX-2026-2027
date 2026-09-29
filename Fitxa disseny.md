@@ -67,8 +67,8 @@ Dibuixa l'estructura que utilitzaries per organitzar els usuaris de MusicCloud.
     │ └── Eulàlia Galcera
     │
     |── Informàtica
-    ├── Talia Costas
-    └── Alex Soriano
+    | ├── Talia Costas
+    └ └── Alex Soriano
 
 # 3. OU o grup?
 
@@ -162,62 +162,51 @@ Ha de mostrar, com a mínim:
 - comptes d'aplicacions o serveis;
 - les subdivisions que consideris necessàries.
 
-MusicCloud
-│
-├── Usuaris
-│ ├── Direcció
-│ │ ├── Aina Ciurans
-│ │ └── Rut Tornil
-│ │
-│ ├── Administració
-│ │ ├── Dídac Gassó
-│ │ └── Laia Macias
-│ │
-│ ├── Suport tècnic
-│ │ ├── Estel Birosta
-│ │ ├── Aina Zuriguel
-│ │ └── Lluïsa Richart
-│ │
-│ ├── Producció musical
-│ │ ├── Roser Alberch
-│ │ ├── Guillem Adella
-│ │ ├── Meritxell Reglat
-│ │ ├── Alícia Monclús
-│ │ ├── Carles Molins
-│ │ └── Eulàlia Galcera
-│ │
-│ └── Informàtica
-│ ├── Talia Costas
-│ └── Alex Soriano
-│
-├── Grups
-│ ├── Direcció
-│ │ └── Caps_Direcció
-│ ├── Administració
-│ │ └── Caps_Administració
-│ ├── Suport tècnic
-│ │ └── Caps_Suport_Tècnic
-│ ├── Producció musical
-│ │ └── Caps_Producció_Musical
-│ └── Informàtica
-│ └── Caps_Informàtica
-│
-├── Equips
-│ ├── Impressores
-│ ├── PC
-│ ├── Portàtils
-│ ├── Mòbils
-│ └── Servidors
-│
-├── Xarxa
-│ ├── Routers
-│ ├── Switchos
-│ ├── Firewalls
-│ ├── NAS
-│ └── SAI
-│
-└── Software
-└── Llicències
+---
+
+    MusicCloud
+    │
+    ├── Usuaris
+    │ ├── Direccio
+    │ ├── Administracio
+    │ ├── SuportTecnic
+    │ ├── ProduccioMusical
+    │ └── Informatica
+    │
+    ├── Grups
+    │ ├── Direccio
+    │ │ └── Cap_Direccio
+    │ │
+    │ ├── Administracio
+    │ │ └── Cap_Administracio
+    │ │
+    │ ├── SuportTecnic
+    │ │ └── Cap_SuportTecnic
+    │ │
+    │ ├── ProduccioMusical
+    │ │ └── Cap_ProduccioMusical
+    │ │
+    │ └── Informatica
+    │ └── Cap_Informatica
+    │
+    ├── Equips
+    │ ├── PC
+    │ ├── Portatils
+    │ ├── Mobils
+    │ ├── Impressores
+    │ └── Servidors
+    │
+    ├── Xarxa
+    │ ├── Routers
+    │ ├── Switches
+    │ ├── Firewalls
+    │ ├── NAS
+    │ └── SAI
+    │
+    └── Software
+        └── Llicències
+
+---
 
 # 8. Justificació del disseny
 
@@ -261,33 +250,33 @@ A partir de les decisions preses durant la sessió, deixa definida la proposta q
 
 ## Estructura d'unitats organitzatives
 
-MusicCloud
-│
-├── Usuaris
-│ ├── Direcció
-│ ├── Administració
-│ ├── Suport tècnic
-│ ├── Producció musical
-│ └── Informàtica
-│
-├── Grups
-│
-├── Equips
-│ ├── Impressores
-│ ├── PC
-│ ├── Portàtils
-│ ├── Mòbils
-│ └── Servidors
-│
-├── Xarxa
-│ ├── Routers
-│ ├── Switchos
-│ ├── Firewalls
-│ ├── NAS
-│ └── SAI
-│
-└── Software
-└── Llicències
+    MusicCloud
+    │
+    ├── Usuaris
+    │ ├── Direcció
+    │ ├── Administració
+    │ ├── Suport tècnic
+    │ ├── Producció musical
+    │ └── Informàtica
+    │
+    ├── Grups
+    │
+    ├── Equips
+    │ ├── Impressores
+    │ ├── PC
+    │ ├── Portàtils
+    │ ├── Mòbils
+    │ └── Servidors
+    │
+    ├── Xarxa
+    │ ├── Routers
+    │ ├── Switchos
+    │ ├── Firewalls
+    │ ├── NAS
+    │ └── SAI
+    │
+    └── Software
+        └── Llicències
 
 ## Criteri utilitzat per organitzar els objectes
 
