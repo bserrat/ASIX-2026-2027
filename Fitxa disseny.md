@@ -43,32 +43,32 @@ Proposa les **unitats organitzatives (OU)** principals que utilitzaries a MusicC
 
 Dibuixa l'estructura que utilitzaries per organitzar els usuaris de MusicCloud.
 
-MusicCloud
-│
-├── Direcció
-│ ├── Aina Ciurans
-│ └── Rut Tornil
-│
-├── Administració
-│ ├── Dídac Gassó
-│ └── Laia Macias
-│
-├── Suport tècnic
-│ ├── Estel Birosta
-│ ├── Aina Zuriguel
-│ └── Lluïsa Richart
-│
-├── Producció musical
-│ ├── Roser Alberch
-│ ├── Guillem Adella
-│ ├── Meritxell Reglat
-│ ├── Alícia Monclús
-│ ├── Carles Molins
-│ └── Eulàlia Galcera
-│
-└── Informàtica
-├── Talia Costas
-└── Alex Soriano
+    MusicClouds
+    │
+    ├── Direcció
+    │ ├── Aina Ciurans
+    │ └── Rut Tornil
+    │
+    ├── Administració
+    │ ├── Dídac Gassó
+    │ └── Laia Macias
+    │
+    ├── Suport tècnic
+    │ ├── Estel Birosta
+    │ ├── Aina Zuriguel
+    │ └── Lluïsa Richart
+    │
+    ├── Producció musical
+    │ ├── Roser Alberch
+    │ ├── Guillem Adella
+    │ ├── Meritxell Reglat
+    │ ├── Alícia Monclús
+    │ ├── Carles Molins
+    │ └── Eulàlia Galcera
+    │
+    |── Informàtica
+    ├── Talia Costas
+    └── Alex Soriano
 
 # 3. OU o grup?
 
