@@ -1,0 +1,10 @@
+Grup creat: GG_Administracio
+Grup creat: GG_Comercial
+Grup creat: GG_Desenvolupament
+Grup creat: GG_Sistemes
+Grup creat: GG_Direccio
+Grup creat: GG_Administracio
+Grup creat: GG_Comercial
+Grup creat: GG_Desenvolupament
+Grup creat: GG_Informatica
+Grup creat: GG_Direccio

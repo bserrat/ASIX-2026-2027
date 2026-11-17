@@ -1,0 +1,12 @@
+Nom,Ruta
+MusicCloud,"DC=musiccloud,DC=local"
+Usuaris,"OU=MusicCloud,DC=musiccloud,DC=local"
+Equips,"OU=MusicCloud,DC=musiccloud,DC=local"
+Grups,"OU=MusicCloud,DC=musiccloud,DC=local"
+Administracio,"OU=Usuaris,OU=MusicCloud,DC=musiccloud,DC=local"
+Comercial,"OU=Usuaris,OU=MusicCloud,DC=musiccloud,DC=local"
+Desenvolupament,"OU=Usuaris,OU=MusicCloud,DC=musiccloud,DC=local"
+Sistemes,"OU=Usuaris,OU=MusicCloud,DC=musiccloud,DC=local"
+Direccio,"OU=Usuaris,OU=MusicCloud,DC=musiccloud,DC=local"
+Clients,"OU=Equips,OU=MusicCloud,DC=musiccloud,DC=local"
+Servidors,"OU=Equips,OU=MusicCloud,DC=musiccloud,DC=local"

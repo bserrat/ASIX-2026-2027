@@ -1,0 +1,11 @@
+Ja existeix: MusicCloud
+Ja existeix: Usuaris
+Ja existeix: Equips
+Ja existeix: Grups
+Ja existeix: Administracio
+Ja existeix: Comercial
+Ja existeix: Desenvolupament
+Ja existeix: Sistemes
+Ja existeix: Direccio
+Ja existeix: Clients
+Ja existeix: Servidors
