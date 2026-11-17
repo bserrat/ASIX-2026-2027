@@ -255,3 +255,25 @@ Get-Content C:\Compartida\log.txt
 He comprovat que les unitats organitzatives indicades al CSV es creen correctament i que el fitxer log registra les OUs creades, les que ja existien i els possibles errors.
 
 ---
+
+## 5. CrearGrupsAmbFitxer.ps1 – Creació de grups mitjançant un fitxer CSV
+
+### Execució
+
+```powershell
+C:\Compartida\crearGrupsAmbFitxer.ps1
+```
+
+### Comprovació dels grups
+
+```powershell
+Get-ADGroup -Filter * -SearchBase "OU=Grups,OU=MusicCloud,DC=musiccloud,DC=local" | Select-Object Name
+```
+
+### Comprovació del fitxer LOG
+
+```powershell
+Get-Content C:\Compartida\logGrups.txt
+```
+
+---
